@@ -1,17 +1,5 @@
-"# Portfolio-SusmitaKunwar" 
-"# PortfolioFullStack-SusmitaKunwar" 
-"# Portfolio-SusmitaKunwar" 
-"# SusmitaKunwar-Portfolio" 
-"# SusmitaKunwarAIWorksheet1" 
-"# Portfolio-SusmitaKunwar" 
-"# MovieListSusmitaKunwar" 
-"# RegistrationFullStack" 
-"# STUDENTPORTFOLIONAMAGER" 
-"# OODP" 
-"# OODPJAVA" 
-"# fullstackweek7" 
-"# AI_ASSIGNMENT1" 
-"# FullStackWeek8" 
-"# fullstack" 
-"# workshop11Fullstack" 
-"# CalculatorCollab" 
+READ ME FILE FOR CALCULATOR
+ADDITION- SUSMITA
+SUBSTRACTION-DIPIKA
+MULTIPLICATION-SHIKHA
+DIVISION-KARUNA
