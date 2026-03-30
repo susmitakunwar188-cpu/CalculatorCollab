@@ -7,3 +7,10 @@ Original file is located at
     https://colab.research.google.com/drive/18AQXHzTjl5PGRGKV_ljoYzLbFfthtcgY
 """
 
+def subtract(a, b):
+    return a - b
+
+num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
+
+print("Subtraction =", subtract(num1, num2))
